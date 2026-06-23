@@ -196,7 +196,7 @@ src/test/resources/
 ### Clone & Configure
 
 ```bash
-git clone https://github.com/<your-username>/policybazaar-automation.git
+git clone https://github.com/sushant-gargi/Hackathon_Project.git
 cd policybazaar-automation
 ```
 
