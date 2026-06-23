@@ -362,14 +362,6 @@ Each hackathon scenario had its own scoped ExtentReport. Dedicated listeners (`M
 
 ---
 
-## 👨‍💻 Team
-
-**Team Name:** CodeBreakers
-**Environment:** QA
-**Platform:** Cross-browser (Chrome / Edge)
-
----
-
 ## 📄 License
 
 This project was built as a hackathon submission. All automation code is original work by the team. The website under test (PolicyBazaar) is a publicly accessible platform.
